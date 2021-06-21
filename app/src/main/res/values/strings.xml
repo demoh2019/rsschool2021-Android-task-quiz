@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="headerTitle">Question %d</string>
+    <string name="nameQuestion">%s</string>
+    <string name="optionFirst">%s</string>
+    <string name="option_second">%s</string>
+    <string name="option_third">%s</string>
+    <string name="optoion_four">%s</string>
+    <string name="option_five">%s</string>
+    <string name="result">Ваш результат %d/5</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
 </resources>
